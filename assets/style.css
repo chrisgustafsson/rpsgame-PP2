@@ -59,3 +59,25 @@ body {
 .fa-solid {
     padding-left: 10px;
 }
+
+.score-tracker {
+    display: flex;
+    flex: row;
+    justify-content: space-evenly;
+}
+
+.win {
+    background-color: green;
+    border-radius: 50%;
+    font-size: 150%;
+    padding: 50px;
+    color: white;
+}
+
+.loss {
+    background-color: red;
+    border-radius: 50%;
+    font-size: 150%;
+    padding: 50px;
+    color: white;
+}
