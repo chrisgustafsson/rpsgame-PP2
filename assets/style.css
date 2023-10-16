@@ -47,6 +47,14 @@ body {
     color: #E16049;
 }
 
+.submit-button {
+    height: 50px;
+    width: 300px;
+    font-size: 200%;
+    margin-top: 35px;
+    color: #E16049;
+}
+
 .fa-solid {
     padding-left: 10px;
 }
