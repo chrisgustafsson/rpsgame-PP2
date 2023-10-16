@@ -49,10 +49,11 @@ body {
 
 .submit-button {
     height: 50px;
-    width: 300px;
+    width: 400px;
     font-size: 200%;
     margin-top: 35px;
     color: #E16049;
+    text-transform: uppercase;
 }
 
 .fa-solid {
