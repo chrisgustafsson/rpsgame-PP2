@@ -82,3 +82,10 @@ body {
     padding: 50px;
     color: white;
 }
+
+.reset-button {
+    height: 50px;
+    width: 200px;
+    color: #E16049;
+    text-transform: uppercase;
+}
