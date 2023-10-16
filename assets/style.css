@@ -19,3 +19,20 @@ body {
     max-height: 200px;
     padding-right: 50px;
 }
+
+.controllers {
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.buttons {
+    font-size: 350%;
+    margin: 35px;
+    border: 5px solid black;
+}
