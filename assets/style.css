@@ -20,8 +20,15 @@ body {
     padding-right: 50px;
 }
 
+.game {
+    background-color: #F7CFBE;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
 .controllers {
-    width: 60%;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
