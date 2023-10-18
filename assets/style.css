@@ -180,4 +180,8 @@ body {
         margin-bottom: 0px;
     }
 
+    .submit-text {
+        font-size: 125%;
+    }
+
 }
