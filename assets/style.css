@@ -139,3 +139,43 @@ body {
     }
 
 }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+
+    .game {
+        width: 100vw;
+        margin: 0 auto;
+    }
+
+    .submit-button {
+        font-size: 80%;
+        margin: 0;
+        height: 50px;
+        width: 190px;
+    }
+
+    .heading {
+        font-size: 1.5rem;
+    }
+
+    .logo {
+        max-width: 100px;
+        max-height: 100px;
+    }
+
+    .buttons {
+        width: 70px;
+        height: 70px;
+        margin-bottom: 0px;
+        font-size: 200%;
+    }
+
+    .fa-solid {
+        padding-left: 5px;
+    }
+
+    .score-tracker {
+        margin-bottom: 0px;
+    }
+
+}
