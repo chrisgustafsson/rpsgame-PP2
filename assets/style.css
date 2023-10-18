@@ -70,18 +70,20 @@ body {
 
 .win {
     background-color: green;
-    border-radius: 50%;
-    font-size: 150%;
-    padding: 50px;
+    border-radius: 20px;
+    padding: 20px;
     color: white;
+    height: 25px;
+    width: 55px;
 }
 
 .loss {
     background-color: red;
-    border-radius: 50%;
-    font-size: 150%;
-    padding: 50px;
+    border-radius: 20px;
+    padding: 20px;
     color: white;
+    height: 25px;
+    width: 55px;
 }
 
 .reset-button {
