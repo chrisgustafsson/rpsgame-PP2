@@ -184,4 +184,9 @@ body {
         font-size: 125%;
     }
 
+    .reset-button {
+        height: 40px;
+        width: 70px;
+    }
+
 }
