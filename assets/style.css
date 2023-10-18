@@ -89,3 +89,29 @@ body {
     color: #E16049;
     text-transform: uppercase;
 }
+
+@media screen and (min-width: 1065px) and (max-width: 1480px) {
+
+    .game {
+        width: 80vw;
+        margin: 0 auto;
+    }
+
+    .buttons {
+        font-size: 200%;
+    }
+
+    .submit-button {
+        font-size: 90%;
+    }
+
+    .heading {
+        font-size: 2rem;
+    }
+
+    .logo {
+        max-width: 150px;
+        max-height: 150px;
+    }
+
+}
