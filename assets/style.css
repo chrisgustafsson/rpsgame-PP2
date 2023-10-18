@@ -98,14 +98,6 @@ body {
         margin: 0 auto;
     }
 
-    .buttons {
-        font-size: 200%;
-    }
-
-    .submit-button {
-        font-size: 90%;
-    }
-
     .heading {
         font-size: 2rem;
     }
@@ -113,6 +105,37 @@ body {
     .logo {
         max-width: 150px;
         max-height: 150px;
+    }
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 1064px) {
+
+    .game {
+        width: 80vw;
+        margin: 0 auto;
+    }
+
+    .submit-button {
+        font-size: 80%;
+        margin: 0;
+        height: 50px;
+        width: 190px;
+    }
+
+    .heading {
+        font-size: 1.75rem;
+    }
+
+    .logo {
+        max-width: 125px;
+        max-height: 125px;
+    }
+
+    .buttons {
+        width: 85px;
+        height: 85px;
+        margin-bottom: 0px;
     }
 
 }
