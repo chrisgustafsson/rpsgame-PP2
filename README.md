@@ -200,3 +200,13 @@ By forking the repository, we make a copy of the original repository on our GitH
 
 - - -
 
+## Credits
+
+### Code
+
+* README template provided by [Code Institute (template)](https://github.com/Code-Institute-Solutions/SampleREADME)
+* Inspiration taken from the Love Maths walkthrough project that Code Institute provides
+  * Mainly the simplicity in a easy game looking clean and stylish
+* Understanding the setTimeout possibilities with JavaScript [BitDegree](https://www.bitdegree.org/learn/best-code-editor/javascript-settimeout-example-2)
+* Title attributes to make buttons more accesible via [Stack Overflow](https://stackoverflow.com/questions/2238239/tooltips-for-button-elements)
+
