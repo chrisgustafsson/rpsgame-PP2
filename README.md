@@ -103,3 +103,19 @@ One page site with everything possible to do in front of the user.
 
 - - -
 
+## Frameworks, Libraries & Programs Used
+
+* [Codeanywhere](https://codeanywhere.com/)
+  * To write the code.
+* [Git](https://git-scm.com)
+  * Utilizing the Gitpod terminal to commit to Git and Push to GitHub
+* [Github](https://github.com/)
+  * Deployment of the website and storing the files online.
+* [Google Fonts](https://fonts.google.com/)
+  * Import font used for the page
+* [Am I Responsive](https://ui.dev/amiresponsive)
+  * Picture for the README file
+* [Font Awesome](https://fontawesome.com/)
+  * For hand icons
+
+- - -
