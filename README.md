@@ -142,3 +142,11 @@ The W3C Markup Validator, W3C CSS Validator and JSHint services were used to val
 
 ![Validation JS](assets/images/readme/readme-js-validation.JPG)
 
+### Manual testing
+
+* Tested on browsers Google Chrome and Safari due to the most amount of traffic
+* Devices used IPHONE 13, Samsung Galaxy S22, Desktop computer and laptop
+* Help from family and friends to test and get a first impression
+* Developer tools in Google Chrome
+* Features have been thoroughly tested and checked on multiple occasions
+
