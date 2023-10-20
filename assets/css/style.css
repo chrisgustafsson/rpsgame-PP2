@@ -28,6 +28,7 @@ body {
     margin-top: 25px;
     margin-bottom: 25px;
     padding-bottom: 50px;
+    border-radius: 20px;
 }
 
 .controllers {
@@ -87,6 +88,11 @@ body {
 
 .results {
     display: none;
+    background-color: black;
+    border-radius: 20px;
+    font-size: 150%;
+    color: white;
+    padding: 5px;
 }
 
 @media screen and (min-width: 1065px) and (max-width: 1480px) {
