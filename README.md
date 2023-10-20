@@ -188,3 +188,15 @@ By forking the repository, we make a copy of the original repository on our GitH
 2. At the top of the Repository(under the main navigation) locate "Fork" button.
 3. Now you should have a copy of the original repository in your GitHub account.
 
+### Local Clone
+
+1. Log in to GitHub and locate [GitHub Repository RPS Game](https://github.com/chrisgustafsson/rpsgame-PP2)
+2. Under the repository name click "Clone or download"
+3. Click on the code button, select clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type `git clone` and then paste The URL copied in the step 3.
+7. Press Enter and your local clone will be created.
+
+- - -
+
