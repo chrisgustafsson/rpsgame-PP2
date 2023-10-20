@@ -4,7 +4,7 @@ let userScore = 0;
 let aiScore = 0;
 
 // Functionality for AI pick
-function aiPick() {
+function generateAiPick() {
     const randomPick = Math.floor(Math.random() * picks.length);
     return picks[randomPick];
 }
@@ -50,7 +50,7 @@ const buttons = document.querySelectorAll('.buttons');
 buttons.forEach(button => {
     button.addEventListener('click', () => {
         const userPick = button.getAttribute('data-type');
-        const aiPick = aiPick();
+        const aiPick = generateAiPick();
         const result = decideWinner(userPick, aiPick);
         updateScore(result);
         showResults(userPick, aiPick, result);
