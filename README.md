@@ -214,3 +214,14 @@ By forking the repository, we make a copy of the original repository on our GitH
 
 * All copy was written by the developer
 * Logotype provided through [Open Clip Art](https://openclipart.org/) and user [gonz4](https://openclipart.org/detail/325665/rock-paper-scissors-lizard-spock)
+
+- - -
+
+## Acknowledgments
+
+* First of my mentor Mitko Bachvarov for helpful tips and tricks and encouragement when needed
+* Family and friends that helped manually test the page
+* Code Institutes weekly stand-ups for valuable information
+* Slack community for daily encouragment
+* User @gonz4 on Open Clip Art for a nicely made logotype which worked perfectly with my project
+* All amazing Stack Overflow users that helps out when things are tricky
