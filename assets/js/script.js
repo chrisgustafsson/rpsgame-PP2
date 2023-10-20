@@ -31,7 +31,14 @@ function decideWinner(userPick, aiPick) {
     }
 }
 
-
+// Functionality for updating scores seen below game area
+function updateScore(result) {
+    if (result === "user") {
+        userScore++;
+    } else if (result === "ai") {
+        aiScore++;
+    }
+}
 
 // Event listener for click on the potential picks
 const buttons = document.querySelectorAll('.buttons');
