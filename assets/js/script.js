@@ -38,6 +38,11 @@ function updateScore(result) {
     } else if (result === "ai") {
         aiScore++;
     }
+
+    const wins = document.querySelector('.wins');
+    const losses = document.querySelector('.losses');
+    wins.textContent = userScore;
+    losses.textContent = aiScore;
 }
 
 // Event listener for click on the potential picks
