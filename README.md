@@ -180,3 +180,11 @@ GitHub Pages used to deploy live version of the website.
 5. The page will automatically refresh.
 6. Scroll back to locate the now-published site [link](https://chrisgustafsson.github.io/rpsgame-PP2/) in the "GitHub Pages" section.
 
+### Forking the GitHub Repository
+
+By forking the repository, we make a copy of the original repository on our GitHub account to view and change without affecting the original repository by using these steps:
+
+1. Log in to GitHub and locate [GitHub Repository RPS Game](https://github.com/chrisgustafsson/rpsgame-PP2)
+2. At the top of the Repository(under the main navigation) locate "Fork" button.
+3. Now you should have a copy of the original repository in your GitHub account.
+
