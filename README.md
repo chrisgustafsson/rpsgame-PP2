@@ -89,3 +89,10 @@ One page site with everything possible to do in front of the user.
 
 - - -
 
+## Technologies Used
+
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [CSS3](https://en.wikipedia.org/wiki/CSS)
+* [JS](https://en.wikipedia.org/wiki/JavaScript)
+
+- - -
