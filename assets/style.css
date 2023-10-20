@@ -191,3 +191,52 @@ body {
     }
 
 }
+
+@media screen and (max-width: 319px) {
+
+    .game {
+        width: 100vw;
+        margin: 0 auto;
+    }
+
+    .submit-button {
+        font-size: 80%;
+        margin: 0;
+        height: 50px;
+        width: 190px;
+    }
+
+    .heading {
+        font-size: 1rem;
+    }
+
+    .logo {
+        max-width: 100px;
+        max-height: 100px;
+    }
+
+    .buttons {
+        width: 70px;
+        height: 70px;
+        margin-bottom: 0px;
+        font-size: 200%;
+    }
+
+    .fa-solid {
+        padding-left: 5px;
+    }
+
+    .score-tracker {
+        margin-bottom: 0px;
+    }
+
+    .submit-text {
+        font-size: 125%;
+    }
+
+    .reset-button {
+        height: 40px;
+        width: 70px;
+    }
+
+}
