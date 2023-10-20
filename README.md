@@ -65,3 +65,11 @@ One page site with everything possible to do in front of the user.
 ![Reset](assets/images/readme/readme-reset.JPG)
 
 - - -
+
+## Future Features
+
+* Difficulty changer
+* Informative page regarding history of game
+* Footer for contact-opportunities
+
+- - -
