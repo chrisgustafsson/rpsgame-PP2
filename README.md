@@ -210,3 +210,7 @@ By forking the repository, we make a copy of the original repository on our GitH
 * Understanding the setTimeout possibilities with JavaScript [BitDegree](https://www.bitdegree.org/learn/best-code-editor/javascript-settimeout-example-2)
 * Title attributes to make buttons more accesible via [Stack Overflow](https://stackoverflow.com/questions/2238239/tooltips-for-button-elements)
 
+### Content
+
+* All copy was written by the developer
+* Logotype provided through [Open Clip Art](https://openclipart.org/) and user [gonz4](https://openclipart.org/detail/325665/rock-paper-scissors-lizard-spock)
