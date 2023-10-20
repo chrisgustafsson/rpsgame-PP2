@@ -9,3 +9,10 @@ we say luck. No reason to drag it on for too long, get gaming and try to beat th
 ![Am I Responsive](assets/images/readme/readme-responsive.JPG)
 
 [View RPS Game live project here](https://chrisgustafsson.github.io/rpsgame-PP2/)
+
+- - -
+
+## User Experience (UX)
+
+Purpose of the page is to provide a very easy option to play a game of rock, paper, scizor, lizard and spock.
+One page site with everything possible to do in front of the user.
