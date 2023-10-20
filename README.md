@@ -58,6 +58,12 @@ One page site with everything possible to do in front of the user.
 
 ![Scores](assets/images/readme/readme-scores.JPG)
 
+* Results
+  * Get informed by the result of your choice
+  * Statement who won
+
+![Results](assets/images/readme/readme-results.JPG)
+
 * Reset
   * Reset the scores to 0 for yourself and the AI
   * Restart the game
@@ -96,3 +102,4 @@ One page site with everything possible to do in front of the user.
 * [JS](https://en.wikipedia.org/wiki/JavaScript)
 
 - - -
+
