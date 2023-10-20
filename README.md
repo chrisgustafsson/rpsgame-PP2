@@ -119,3 +119,12 @@ One page site with everything possible to do in front of the user.
   * For hand icons
 
 - - -
+
+## Testing
+
+The W3C Markup Validator, W3C CSS Validator and JSHint services were used to validate the page of the project to ensure there were no errors.
+
+* [W3C Markup Validator](https://validator.w3.org/)
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+* [JSHint](https://jshint.com/)
+
