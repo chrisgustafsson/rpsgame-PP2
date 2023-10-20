@@ -167,3 +167,16 @@ The W3C Markup Validator, W3C CSS Validator and JSHint services were used to val
 
 - - -
 
+## Deployment and local development
+
+### GitHub Pages
+
+GitHub Pages used to deploy live version of the website.
+
+1. Log in to GitHub and locate [GitHub Repository RPS Game](https://github.com/chrisgustafsson/rpsgame-PP2)
+2. At the top of the Repository(not the main navigation) locate "Settings" button on the menu.
+3. Scroll down the Settings page until you locate "GitHub Pages".
+4. Under "Source", click the dropdown menu "None" and select "Main" and click "Save".
+5. The page will automatically refresh.
+6. Scroll back to locate the now-published site [link](https://chrisgustafsson.github.io/rpsgame-PP2/) in the "GitHub Pages" section.
+
