@@ -73,3 +73,19 @@ One page site with everything possible to do in front of the user.
 * Footer for contact-opportunities
 
 - - -
+
+## Design
+
+* Colors used are cinnabar, pale dogwood, anti-flash white, office green and red
+  * Office green / Red for the score tracker as win connected to green (good) and loss to red (bad)
+  * Anti-flash white for button background to have strong contrast against the cinnabar
+  * Cinnabar and Pale dogwood is pickedby inspiration from the logotype
+
+![Colors](assets/images/readme/readme-colors.JPG)
+
+* Typography
+  *  Tilt Neon with sans-serif as a fallback
+     *  Mainly picked due to it's modern vibe and fitting to a game
+
+- - -
+
