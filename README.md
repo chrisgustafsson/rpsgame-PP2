@@ -37,3 +37,31 @@ One page site with everything possible to do in front of the user.
 * Easy to play and test your luck against a randomized opponent
 * Reset the game when scores are not looking that nice anymore
 * Responsive flow
+
+### Existing Features
+
+* Logo
+  * Connected to header element
+  * Main purpose of logotype but also doubling as a guide
+
+![Logo](assets/images/readme/readme-logo.JPG)
+
+* Picks
+  * 5 options to pick from (Rock, Paper, Scizor, Lizard, Spock)
+  * Key element for the games functionality
+
+![Picks](assets/images/readme/readme-picks.JPG)
+
+* Scores
+  * Keep track of the scores
+  * Updates automatically if you win or lose
+
+![Scores](assets/images/readme/readme-scores.JPG)
+
+* Reset
+  * Reset the scores to 0 for yourself and the AI
+  * Restart the game
+
+![Reset](assets/images/readme/readme-reset.JPG)
+
+- - -
