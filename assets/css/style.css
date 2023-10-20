@@ -85,6 +85,10 @@ body {
     text-transform: uppercase;
 }
 
+.results {
+    display: none;
+}
+
 @media screen and (min-width: 1065px) and (max-width: 1480px) {
 
     .game {
