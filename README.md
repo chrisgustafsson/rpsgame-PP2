@@ -150,3 +150,20 @@ The W3C Markup Validator, W3C CSS Validator and JSHint services were used to val
 * Developer tools in Google Chrome
 * Features have been thoroughly tested and checked on multiple occasions
 
+### Lighthouse - Google Accesibility
+
+<details>
+<summary> Desktop
+</summary>
+
+![Desktop](assets/images/readme/readme-lh-desktop.JPG)
+</details>
+<details>
+<summary> Mobile
+</summary>
+
+![Mobile](assets/images/readme/readme-lh-mobile.JPG)
+</details>
+
+- - -
+
