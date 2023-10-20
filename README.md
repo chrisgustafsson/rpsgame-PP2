@@ -128,3 +128,17 @@ The W3C Markup Validator, W3C CSS Validator and JSHint services were used to val
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 * [JSHint](https://jshint.com/)
 
+### Validation results
+
+* HTML
+  
+![Validation HTML](assets/images/readme/readme-html-validation.JPG)
+
+* CSS
+
+![Validation CSS](assets/images/readme/readme-css-validation.JPG)
+
+* JS
+
+![Validation JS](assets/images/readme/readme-js-validation.JPG)
+
