@@ -17,3 +17,15 @@ const rules = {
     lizard: ["spock", "paper"],
     spock: ["scizor", "rock"],
 };
+
+// Event listener for click on the potential picks
+const buttons = document.querySelectorAll('.buttons');
+buttons.forEach(button => {
+    button.addEventListener('click', () => {
+        const userPick = button.getAttribute('data-type');
+        const aiPick = aiPick();
+        const result = decideWinner(userPick, aiPick);
+        updateScore(result);
+        showResults(userPick, aiPick, result);
+    });
+});
