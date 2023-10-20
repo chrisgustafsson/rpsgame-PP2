@@ -45,6 +45,20 @@ function updateScore(result) {
     losses.textContent = aiScore;
 }
 
+// Functionality for displaying the results with a hidden object
+function showResults(userPick, aiPick, result) {
+    const resultsText = document.querySelector('#results-text');
+    resultsText.textContent = `You picked ${userPick}, AI picked ${aiPick}. ${result.toUpperCase()} won!`;
+
+    const results = document.querySelector('.results');
+    results.style.display = 'block';
+
+    // Timeout functionality to show the results for a certain amount of time
+    setTimeout(() => {
+        results.style.display = 'none';
+    }, 5000);
+}
+
 // Event listener for click on the potential picks
 const buttons = document.querySelectorAll('.buttons');
 buttons.forEach(button => {
