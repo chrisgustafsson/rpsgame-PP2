@@ -16,3 +16,18 @@ we say luck. No reason to drag it on for too long, get gaming and try to beat th
 
 Purpose of the page is to provide a very easy option to play a game of rock, paper, scizor, lizard and spock.
 One page site with everything possible to do in front of the user.
+
+### User Stories (Goals)
+
+* First time visitor
+  * Learn through practice which pick beat which pick
+  * Try out the functionality
+
+* Returning visitor
+  * Beat the AI
+  * Set personal challenges and reach streaks of wins
+
+* Frequent user
+  * Master the game of luck
+
+- - -
