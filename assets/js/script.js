@@ -70,3 +70,14 @@ buttons.forEach(button => {
         showResults(userPick, aiPick, result);
     });
 });
+
+// Functionality for the reset button to take down the scores to 0
+const resetButton = document.querySelector('.reset-button');
+resetButton.addEventListener('click', () => {
+    userScore = 0;
+    aiScore = 0;
+    const wins = document.querySelector('.wins');
+    const losses = document.querySelector('.losses');
+    wins.textContent = userScore;
+    losses.textContent = aiScore;
+});
