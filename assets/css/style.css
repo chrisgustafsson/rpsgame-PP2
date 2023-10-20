@@ -49,15 +49,6 @@ body {
     color: #E16049;
 }
 
-.submit-button {
-    height: 50px;
-    width: 400px;
-    font-size: 200%;
-    margin-top: 35px;
-    color: #E16049;
-    text-transform: uppercase;
-}
-
 .fa-solid {
     padding-left: 10px;
 }
@@ -119,13 +110,6 @@ body {
         margin: 0 auto;
     }
 
-    .submit-button {
-        font-size: 80%;
-        margin: 0;
-        height: 50px;
-        width: 190px;
-    }
-
     .heading {
         font-size: 1.75rem;
     }
@@ -148,13 +132,6 @@ body {
     .game {
         width: 100vw;
         margin: 0 auto;
-    }
-
-    .submit-button {
-        font-size: 80%;
-        margin: 0;
-        height: 50px;
-        width: 190px;
     }
 
     .heading {
@@ -197,13 +174,6 @@ body {
     .game {
         width: 100vw;
         margin: 0 auto;
-    }
-
-    .submit-button {
-        font-size: 80%;
-        margin: 0;
-        height: 50px;
-        width: 190px;
     }
 
     .heading {
