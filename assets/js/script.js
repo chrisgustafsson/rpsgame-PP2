@@ -25,7 +25,7 @@ function decideWinner(userPick, aiPick) {
     };
 
     if (rules[userPick].includes(aiPick)) {
-        return "user";
+        return "you";
     } else {
         return "ai";
     }
@@ -33,7 +33,7 @@ function decideWinner(userPick, aiPick) {
 
 // Functionality for updating scores seen below game area
 function updateScore(result) {
-    if (result === "user") {
+    if (result === "you") {
         userScore++;
     } else if (result === "ai") {
         aiScore++;
