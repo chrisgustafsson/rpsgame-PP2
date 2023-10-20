@@ -31,3 +31,9 @@ One page site with everything possible to do in front of the user.
   * Master the game of luck
 
 - - -
+
+## Features
+
+* Easy to play and test your luck against a randomized opponent
+* Reset the game when scores are not looking that nice anymore
+* Responsive flow
