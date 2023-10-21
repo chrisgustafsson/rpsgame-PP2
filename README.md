@@ -140,7 +140,7 @@ The W3C Markup Validator, W3C CSS Validator and JSHint services were used to val
 
 * JS
 
-![Validation JS](assets/images/readme/readme-js-validation.JPG)
+No errors received during testing in JSHint
 
 ### Manual testing
 
