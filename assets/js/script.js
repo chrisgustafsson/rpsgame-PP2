@@ -48,7 +48,7 @@ function updateScore(result) {
 // Functionality for displaying the results with a hidden object
 function showResults(userPick, aiPick, result) {
     const resultsText = document.querySelector('#results-text');
-    resultsText.textContent = `You picked ${userPick}, AI picked ${aiPick}. ${result.toUpperCase()} won!`;
+    resultsText.textContent = `You picked ${userPick}, AI picked ${aiPick}. ${result.toUpperCase()} ${result == "tie" ? " " : "won!"}`;
 
     const results = document.querySelector('.results');
     results.style.display = 'block';
@@ -80,4 +80,4 @@ resetButton.addEventListener('click', () => {
     const losses = document.querySelector('.losses');
     wins.textContent = userScore;
     losses.textContent = aiScore;
-});
+});;
