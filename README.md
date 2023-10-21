@@ -210,6 +210,7 @@ By forking the repository, we make a copy of the original repository on our GitH
 * Understanding the setTimeout possibilities with JavaScript [BitDegree](https://www.bitdegree.org/learn/best-code-editor/javascript-settimeout-example-2)
 * Title attributes to make buttons more accesible via [Stack Overflow](https://stackoverflow.com/questions/2238239/tooltips-for-button-elements)
 * To understand the rules of the game [The Big Bang Theory Wiki](https://bigbangtheory.fandom.com/wiki/Rock,_Paper,_Scissors,_Lizard,_Spock)
+* Written out code for inspiration on where to start [GeeksforGeeks](https://ide.geeksforgeeks.org/online-html-editor/0dd9e95b-6567-453b-95fb-cb4226616bbf)
 
 ### Content
 
