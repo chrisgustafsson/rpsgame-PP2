@@ -6,12 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>RPS Game</title>
     <link rel="stylesheet" href="assets/css/style.css" />
+    <!-- Font Awesome connection -->
     <script
       src="https://kit.fontawesome.com/ea4c1a8b8b.js"
       crossorigin="anonymous"
     ></script>
   </head>
   <body>
+    <!-- Heading element with H1 and logotype -->
     <header>
       <h1 class="heading">
         <img
@@ -23,6 +25,7 @@
       </h1>
       <!-- Thanks to user gonz4 @ openclipart for the logotype -->
     </header>
+    <!-- Game area including controllers -->
     <div class="game">
       <div class="controllers">
         <button data-type="rock" id="rock" class="buttons" title="Rock">
@@ -41,21 +44,24 @@
           <i class="fa-regular fa-hand-spock fa-rotate-90"></i>
         </button>
       </div>
+      <!-- Game area including guiding copy and results message -->
       <div class="game-copy">
         <h2 class="submit-text">Think wisely and make your choice!</h2>
       </div>
       <div class="results"><span id="results-text">x</span></div>
     </div>
+    <!-- Score area to keep track on scores between user and AI -->
     <div class="score-tracker">
       <p class="win"><span class="wins">0</span></p>
       <p class="loss"><span class="losses">0</span></p>
     </div>
+    <!-- Reset area to be able to restart the game -->
     <div class="reset-area">
       <button data-type="reset" class="reset-button" title="Reset">
         reset
       </button>
     </div>
-
+    <!-- JavaScript connection -->
     <script src="assets/js/script.js"></script>
   </body>
 </html>
