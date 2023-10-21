@@ -1,6 +1,6 @@
 # RPS Game
 
-The easy and simple Rock, Paper, Scizor game also including the popular options Lizard and Spock.
+The easy and simple Rock, Paper, Scissors game also including the popular options Lizard and Spock.
 Made famous by the TV-show The Big Bang Theory.
 
 RPS Game provides an easy to use game versus the AI to determine who has the most skill or should
@@ -14,7 +14,7 @@ we say luck. No reason to drag it on for too long, get gaming and try to beat th
 
 ## User Experience (UX)
 
-Purpose of the page is to provide a very easy option to play a game of rock, paper, scizor, lizard and spock.
+Purpose of the page is to provide a very easy option to play a game of rock, paper, scissors, lizard and spock.
 One page site with everything possible to do in front of the user.
 
 ### User Stories (Goals)
@@ -47,7 +47,7 @@ One page site with everything possible to do in front of the user.
 ![Logo](assets/images/readme/readme-logo.JPG)
 
 * Picks
-  * 5 options to pick from (Rock, Paper, Scizor, Lizard, Spock)
+  * 5 options to pick from (Rock, Paper, Scissors, Lizard, Spock)
   * Key element for the games functionality
 
 ![Picks](assets/images/readme/readme-picks.JPG)
