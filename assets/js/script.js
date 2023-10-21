@@ -1,5 +1,5 @@
 // Possible picks for the user and the AI
-const picks = ["rock", "scizor", "paper", "lizard", "spock"];
+const picks = ["rock", "scissors", "paper", "lizard", "spock"];
 let userScore = 0;
 let aiScore = 0;
 
@@ -17,11 +17,11 @@ function decideWinner(userPick, aiPick) {
 
     // Rules of the game itself, first item beats the contained items
     const rules = {
-        rock: ["scizor", "lizard"],
-        scizor: ["paper", "lizard"],
+        rock: ["scissors", "lizard"],
+        scissors: ["paper", "lizard"],
         paper: ["rock", "spock"],
         lizard: ["spock", "paper"],
-        spock: ["scizor", "rock"],
+        spock: ["scissors", "rock"],
     };
 
     if (rules[userPick].includes(aiPick)) {
