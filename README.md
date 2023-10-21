@@ -158,6 +158,10 @@ No errors received during testing in JSHint
   * Score increased on winner (if tie nothing)
   * Reset button click sets scores to 0 for both
 
+### Known Bugs
+
+* Frequent clicking on one of the options might cause the result bar to flicker
+
 ### Lighthouse - Google Accesibility
 
 <details>
