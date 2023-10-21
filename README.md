@@ -149,6 +149,14 @@ No errors received during testing in JSHint
 * Help from family and friends to test and get a first impression
 * Developer tools in Google Chrome
 * Features have been thoroughly tested and checked on multiple occasions
+* All combinations possible tested
+* PLAY GAME
+  * Pick a option of choice
+  * AI picks a option simultaneously
+  * Choices compared
+  * Result bar declaring winner or tie
+  * Score increased on winner (if tie nothing)
+  * Reset button click sets scores to 0 for both
 
 ### Lighthouse - Google Accesibility
 
